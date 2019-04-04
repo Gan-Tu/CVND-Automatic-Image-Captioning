@@ -11,10 +11,6 @@ In this project, I'll create a neural network architecture consisting of both CN
 
 ## Getting the Files
 
-### Download the Code
-
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/cv/p2-automatic-image-captioning.zip)
-
 ### Data
 
 The Microsoft **C**ommon **O**bjects in **CO**ntext (MS COCO) dataset is a large-scale dataset for scene understanding.  The dataset is commonly used to train and benchmark object detection, segmentation, and captioning algorithms.  
